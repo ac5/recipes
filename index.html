@@ -1,22 +1,12 @@
 ---
 layout: default
+title: Homepage
 ---
 
-<article class="recipe">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-</article>
+<h1>{{site.title}}</h1>
+<p>{{site.description}}</p>
 
 <hr>
-
-<h3>All recipes</h3>
 
 {% for page in site.pages %}
   {% if page.layout == "recipe" %}
