@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: recipe
 title: Tomato soup
 date: 2013-07-29 22:32
 author: Alex
 ---
 
 ![Mmmm Soup]({{ "/assets/tomato-soup.jpg" | absolute_url }})
-
 
 A great versatile soup. Can be smooth or chunky depending on whether you have a blender to hand. Add a bit of cream or milk to make it extra tasty.
 Serve with a crunchy white loaf and a good block of cheese.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Bacon and tomato pasta sauce
 date: 2013-07-27 11:19
 author: Alex

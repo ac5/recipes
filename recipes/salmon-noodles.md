@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Salmon with noodles
 date: 2013-07-22 22:36
 author: Alex

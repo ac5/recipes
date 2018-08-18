@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Crunchy green salad
 date: 2013-07-27 11:27
 author: Alex

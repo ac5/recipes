@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Salsa
 date: 2013-08-01 22:24
 author: Katie

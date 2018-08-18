@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Cauliflower and Green Pepper Dahl
 date: 2013-07-24 00:15
 author: Alex

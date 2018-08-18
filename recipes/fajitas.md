@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recipe
 title: Fajitas
 date: 2013-08-01 22:36
 author: Katie
