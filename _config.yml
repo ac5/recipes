@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Saucy pasta
 description: >- # this means to ignore newlines until "baseurl:"
-  Recipe treasure trove, aar.
+  A recipe treasure trove, aar.
 baseurl: "/recipes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ac5

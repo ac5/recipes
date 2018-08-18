@@ -29,13 +29,4 @@ layout: default
 
 <hr />
 
-<h2>All recipes</h2>
-
-{% for page in site.pages %}
-  {% if page.layout == "recipe" %}
-    <div class="item">
-      <h4><a href="{{page.url | prepend:site.baseurl}}">{{page.title}}</a></h4>
-      <p>{{page.description}}</p>
-    </div>
-  {% endif %}
-{% endfor %}
+{%- include list.html -%}

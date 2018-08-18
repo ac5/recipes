@@ -3,16 +3,4 @@ layout: default
 title: Homepage
 ---
 
-<h1>{{site.title}}</h1>
-<p>{{site.description}}</p>
-
-<hr>
-
-{% for page in site.pages %}
-  {% if page.layout == "recipe" %}
-    <div class="item">
-      <h4><a href="{{page.url | prepend:site.baseurl}}">{{page.title}}</a></h4>
-      <p>{{page.description}}</p>
-    </div>
-  {% endif %}
-{% endfor %}
+{%- include list.html -%}
