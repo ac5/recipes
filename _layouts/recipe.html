@@ -9,6 +9,19 @@ layout: default
   </header>
 
   <div class="post-content">
+
+    <p>{{page.description}}</p>
+
+    {%- if page.image -%}
+      <img src="{{ "/assets/images/" | absolute_url }}{{page.image}}" alt="{{page.image-alt}}" />
+    {%- endif -%}
+
+    <p><strong>Rating</strong>: {{page.rating}}/5</p>
+    <p><strong>Prep-time</strong>: {{page.prep-time}}</p>
+    <p><strong>Cook-time</strong>: {{page.cook-time}}</p>
+    <p><strong>Total cook time</strong>: {{page.prep-time | plus: page.cook-time}}</p>
+    <p><strong>Serves</strong>: {{page.serves}}</p>
+
     {{ content }}
   </div>
 

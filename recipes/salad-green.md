@@ -3,6 +3,12 @@ layout: recipe
 title: Crunchy green salad
 date: 2013-07-27 11:27
 author: Alex
+image: ".jpg"
+image-alt: ""
+rating:
+prep-time:
+cook-time:
+serves: 
 ---
 
 A great salad with any meal, serve with your favourite salad dressing.

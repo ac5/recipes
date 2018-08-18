@@ -1,14 +1,19 @@
 ---
 layout: recipe
 title: Tomato soup
+description: |
+  A great versatile soup. Can be smooth or chunky depending on whether you have a blender to hand. Add a bit of cream or milk to make it extra tasty.
+  Serve with a crunchy white loaf and a good block of cheese.
 date: 2013-07-29 22:32
 author: Alex
+image: "tomato-soup.jpg"
+image-alt: "Mmmm! Soup"
+rating: 3 # out of 5
+prep-time: 3
+cook-time: 20
+serves: 2
 ---
 
-![Mmmm Soup]({{ "/assets/tomato-soup.jpg" | absolute_url }})
-
-A great versatile soup. Can be smooth or chunky depending on whether you have a blender to hand. Add a bit of cream or milk to make it extra tasty.
-Serve with a crunchy white loaf and a good block of cheese.
 ￼
 ## Ingredients
 - 1tbsp Extra virgin olive oil
@@ -22,9 +27,3 @@ Serve with a crunchy white loaf and a good block of cheese.
 
 ## Method
 Drizzle a good glug of Extra virgin olive oil into a pan, soften the choppend onions and the crushed garlic. Add all of the other ingredients and simmer for 20 minutes.
-
-## Time
-30minutes
-
-## Serves
-2

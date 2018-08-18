@@ -1,15 +1,17 @@
 ---
 layout: recipe
 title: Bacon and tomato pasta sauce
+description: A lovely smokey dish full of flavour, serve with cheese sprinkled on top and a nice crunchy Green salad.
 date: 2013-07-27 11:19
 author: Alex
+image: "bacon-pasta.jpg"
+image-alt: "Mmmmm saucy pasta"
+rating: 4
+prep-time: 4
+cook-time: 20
+serves: 2
 ---
 
-![Mmmm Soup]({{ "/assets/bacon-pasta.jpg" | absolute_url }})
-
-
-A lovely smokey dish full of flavour, serve with cheese sprinkled on top and a nice crunchy Green salad
-￼
 
 ## Ingredients
 - 1 1/2 tbsp extra virgin olive oil
@@ -26,10 +28,4 @@ A lovely smokey dish full of flavour, serve with cheese sprinkled on top and a n
 - a glug of red wine 20ml
 
 ## Method
-Put a good glug of extra virgin olive oil into a pan and soften the chopped onions, add garlic, bacon and peppers and fry for 4 minutes. Add all of the other ingredients and cook on a low heat for 30 minutes. Boil your favourite pasta mix together and serve.
-
-## Time
-35minutes
-
-## Serves
-2
+Put a good glug of extra virgin olive oil into a pan and soften the chopped onions, add garlic, bacon and peppers and fry for 4 minutes. Add all of the other ingredients and cook on a low heat for 15 minutes. Boil your favourite pasta mix together and serve.

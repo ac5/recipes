@@ -3,6 +3,12 @@ layout: recipe
 title:  Hummus
 date:   2013-07-21 11:38
 author: Katie
+image: ".jpg"
+image-alt: ""
+rating:
+prep-time:
+cook-time:
+serves:
 ---
 
 ## Ingredients
