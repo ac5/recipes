@@ -3,7 +3,7 @@ layout: recipe
 title:  Hummus
 date:   2013-07-21 11:38
 author: Katie
-image: ".jpg"
+image:
 image-alt: ""
 rating:
 prep-time: 5

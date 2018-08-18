@@ -4,7 +4,7 @@ title: Crunchy green salad
 description: A great salad with any meal, serve with your favourite salad dressing. Use Cos, Little gem or Romaine hearts Lettuce for that extra crunch.
 date: 2013-07-27 11:27
 author: Alex
-image: ".jpg"
+image:
 image-alt: ""
 rating:
 prep-time: 5
