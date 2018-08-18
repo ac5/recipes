@@ -13,23 +13,23 @@ layout: default
     <p>{{page.description}}</p>
 
     {%- if page.image -%}
-      <img src="{{ "/assets/images/" | absolute_url }}{{page.image}}" alt="{{page.image-alt}}" />
+      <p><img src="{{ "/assets/images/" | absolute_url }}{{page.image}}" alt="{{page.image-alt}}" /></p>
     {%- endif -%}
 
-    <p><strong>Rating</strong>: {{page.rating}}/5</p>
-    <p><strong>Prep-time</strong>: {{page.prep-time}}</p>
-    <p><strong>Cook-time</strong>: {{page.cook-time}}</p>
-    <p><strong>Total cook time</strong>: {{page.prep-time | plus: page.cook-time}}</p>
-    <p><strong>Serves</strong>: {{page.serves}}</p>
+    <p><strong>Rating</strong>: {{page.rating}}/5 <br />
+    <strong>Prep-time</strong>: {{page.prep-time}}<br />
+    <strong>Cook-time</strong>: {{page.cook-time}}<br />
+    <strong>Total cook time</strong>: {{page.prep-time | plus: page.cook-time}}<br />
+    <strong>Serves</strong>: {{page.serves}}</p>
 
     {{ content }}
   </div>
 
 </article>
 
-<hr>
+<hr />
 
-<h3>All recipes</h3>
+<h2>All recipes</h2>
 
 {% for page in site.pages %}
   {% if page.layout == "recipe" %}
