@@ -1,15 +1,14 @@
 ---
 layout: recipe
 title: Salsa
+description: Serve with fajitas or as a topping on burgers.
 date: 2013-08-01 22:24
 author: Katie
-rating: 4 
+rating: 4
 prep-time: 5
 cook-time:
 serves: 4
 ---
-
-Serve with fajitas or as a topping on burgers
 
 ## Ingredients
 - 1/2 red onion

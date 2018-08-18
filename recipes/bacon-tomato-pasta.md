@@ -12,7 +12,6 @@ cook-time: 20
 serves: 2
 ---
 
-
 ## Ingredients
 - 1 1/2 tbsp extra virgin olive oil
 - 1 medium onion

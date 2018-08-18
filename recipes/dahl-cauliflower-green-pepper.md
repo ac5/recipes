@@ -13,12 +13,6 @@ cook-time: 20
 serves: 2
 ---
 
-![Mmmm Soup]({{ "/assets/images/dahl-cauliflower-green-pepper.jpg" | absolute_url }})
-
-
-
-￼
-
 ## Ingredients
 - 90g Split red lentils
 - 300ml veg stock

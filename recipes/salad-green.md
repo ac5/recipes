@@ -1,18 +1,16 @@
 ---
 layout: recipe
 title: Crunchy green salad
+description: A great salad with any meal, serve with your favourite salad dressing. Use Cos, Little gem or Romaine hearts Lettuce for that extra crunch.
 date: 2013-07-27 11:27
 author: Alex
 image: ".jpg"
 image-alt: ""
 rating:
-prep-time:
+prep-time: 5
 cook-time:
-serves: 
+serves: 2
 ---
-
-A great salad with any meal, serve with your favourite salad dressing.
-Use Cos, Little gem or Romaine hearts Lettuce for that extra crunch
 
 ## Ingredients
 - 4 leaves of Cos lettuce
@@ -22,9 +20,3 @@ Use Cos, Little gem or Romaine hearts Lettuce for that extra crunch
 
 ## Method
 Chop up and mix
-
-## Time
-5minutes
-
-## Serves
-2

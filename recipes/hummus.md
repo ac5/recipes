@@ -6,9 +6,9 @@ author: Katie
 image: ".jpg"
 image-alt: ""
 rating:
-prep-time:
+prep-time: 5
 cook-time:
-serves:
+serves: 6
 ---
 
 ## Ingredients
@@ -22,9 +22,3 @@ serves:
 
 ## Method
 Blend everything except salt, add more water if needed to get correct consistency, add salt to taste.
-
-## Time
-5minutes
-
-## Serves
-6
