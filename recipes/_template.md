@@ -1,9 +1,10 @@
 ---
 layout: recipe
 title:
-date: # YYYY-MM-DD HH:MM
+description:
+date: # YYYY-MM-DD
 author:
-image: ""
+image: 
 image-alt: ""
 rating: # out of 5
 prep-time:
