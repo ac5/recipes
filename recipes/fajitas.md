@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Fajitas
-date: 2013-08-01 22:36
+date: 2013-08-01
 author: Katie
 rating: 5
 prep-time: 5

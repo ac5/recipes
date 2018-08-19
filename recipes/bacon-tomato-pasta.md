@@ -2,7 +2,7 @@
 layout: recipe
 title: Bacon and tomato pasta sauce
 description: A lovely smokey dish full of flavour, serve with cheese sprinkled on top and a nice crunchy Green salad.
-date: 2013-07-27 11:19
+date: 2013-07-27
 author: Alex
 image: "bacon-pasta.jpg"
 image-alt: "Mmmmm saucy pasta"

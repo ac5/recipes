@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  Hummus
-date:   2013-07-21 11:38
+date:   2013-07-21
 author: Katie
 image:
 image-alt: ""

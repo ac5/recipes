@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Salmon with noodles
-date: 2013-07-22 22:36
+date: 2013-07-22
 author: Alex
 image: "salmon-noodles.jpg"
 image-alt: ""

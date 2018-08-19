@@ -3,7 +3,7 @@ layout: recipe
 title: Cauliflower and Green Pepper Dahl
 description: |
   Original recipe from The Classic 1000 Vegitarian Recipes <em>by Carolyn Humphries</em> Serve with boiled rice, raita, mango chutney and naan bread
-date: 2013-07-24 00:15
+date: 2013-07-24
 author: Alex
 image: "dahl-cauliflower-green-pepper.jpg"
 image-alt: ""

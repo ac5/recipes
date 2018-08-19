@@ -2,7 +2,7 @@
 layout: recipe
 title: Salsa
 description: Serve with fajitas or as a topping on burgers.
-date: 2013-08-01 22:24
+date: 2013-08-01
 author: Katie
 rating: 4
 prep-time: 5
