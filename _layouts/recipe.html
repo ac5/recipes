@@ -10,17 +10,21 @@ layout: default
 
   <div class="post-content">
 
-    <p>{{page.description}}</p>
+    {%- if page.description -%}
+      <p>{{page.description}}</p>
+    {%- endif -%}
 
     {%- if page.image -%}
       <p><img src="{{ "/assets/images/" | absolute_url }}{{page.image}}" alt="{{page.image-alt}}" /></p>
     {%- endif -%}
 
-    <p><strong>Rating</strong>: {{page.rating}}/5 <br />
-    <strong>Prep-time</strong>: {{page.prep-time}}<br />
-    <strong>Cook-time</strong>: {{page.cook-time}}<br />
-    <strong>Total cook time</strong>: {{page.prep-time | plus: page.cook-time}}<br />
-    <strong>Serves</strong>: {{page.serves}}</p>
+    <p>
+      {%- if page.rating -%}<strong>Rating</strong>: {{page.rating}}/5 <br />{%- endif -%}
+      {%- if page.prep-time -%}<strong>Prep-time</strong>: {{page.prep-time}}<br />{%- endif -%}
+      {%- if page.cook-time -%}<strong>Cook-time</strong>: {{page.cook-time}}<br />{%- endif -%}
+      <strong>Total cook time</strong>: {{page.prep-time | plus: page.cook-time}}<br />
+      {%- if page.serves -%}<strong>Serves</strong>: {{page.serves}}{%- endif -%}
+    </p>
 
     {{ content }}
   </div>
