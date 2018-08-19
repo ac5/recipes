@@ -1,3 +1,26 @@
+
+.all-recipes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  .item {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border: 1px solid #efefef;
+    margin: 10px;
+    flex: 1;
+    min-width: 100px;
+
+    img {
+      width: 100px;
+    }
+  }
+}
+
+
+
 /**
  * Site header
  */
