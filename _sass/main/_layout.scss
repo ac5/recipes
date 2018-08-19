@@ -13,8 +13,9 @@
     flex: 1;
     min-width: 100px;
 
-    img {
-      width: 100px;
+    .recipe-description {
+      text-align: center;
+      margin: 0;
     }
   }
 }

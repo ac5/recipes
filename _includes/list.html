@@ -4,10 +4,14 @@
 {% for page in site.pages %}
   {% if page.layout == "recipe" %}
     <div class="item" >
+      <a href="{{page.url | prepend:site.baseurl}}">
       {%- if page.image -%}
         <img src="{{ "/assets/images/" | absolute_url }}{{page.image}}" alt="{{page.image-alt}}" />
+        {%- else -%}
+        <img src="https://placehold.it/400x300/efefef/aaa/?text=Coming+soon" />
       {%- endif -%}
-      <p><a href="{{page.url | prepend:site.baseurl}}">{{page.title}}</a></p>
+      <p class="recipe-description">{{page.title}}</p>
+      </a>
     </div>
   {% endif %}
 {% endfor %}
