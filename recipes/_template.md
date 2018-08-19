@@ -3,7 +3,7 @@ layout: recipe
 title:
 date: # YYYY-MM-DD HH:MM
 author:
-image: ".jpg"
+image: ""
 image-alt: ""
 rating: # out of 5
 prep-time:
